@@ -6,3 +6,5 @@ que hay.
   
 **Consejo** Para los hispanohablantes con nivel medio o superior en inglés, recomiendo hacer  
 los cursos en dicho idioma, ya que así se practican dos cosas ☺
+## Certificado obtenido
+![Certificado](./images/certification.jpg)
